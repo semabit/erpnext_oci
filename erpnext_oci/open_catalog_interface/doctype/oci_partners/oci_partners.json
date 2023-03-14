@@ -13,8 +13,6 @@
   "type",
   "url",
   "additionaldata",
-  "validate",
-  "detail",
   "fields",
   "item_defaults"
  ],
@@ -50,18 +48,6 @@
    "fieldtype": "Data",
    "label": "URL",
    "reqd": 1
-  },
-  {
-   "default": "0",
-   "fieldname": "validate",
-   "fieldtype": "Check",
-   "label": "Validate"
-  },
-  {
-   "default": "0",
-   "fieldname": "detail",
-   "fieldtype": "Check",
-   "label": "Detail"
   },
   {
    "fieldname": "additionaldata",
